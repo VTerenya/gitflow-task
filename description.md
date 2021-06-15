@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Name
 
 iPhone 12 Pro Max
@@ -35,3 +36,10 @@ Colours | Gold, Graphite, Pacific Blue, Silver
 ![Second example](img/second.jpg "Second photo")
 ![Third example](img/third.jpg "Third photo")
 >>>>>>> photos
+=======
+# Similar devices
+1. iPhone 12 Pro
+2. iPhone 12
+3. iPhone 11 Pro Max
+4. iPhone 11 Pro
+>>>>>>> similar
